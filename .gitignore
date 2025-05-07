@@ -1,0 +1,17 @@
+# Ignorar archivos de backup de SolidWorks
+*.sldbak
+
+# Ignorar archivos de swap o temporales
+*.swp
+*.swo
+*.tmp
+
+# Ignorar archivos de recuperación automática
+~$*
+
+# Ignorar archivos ocultos de macOS y Windows
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de copias de seguridad
+__MACOSX/
